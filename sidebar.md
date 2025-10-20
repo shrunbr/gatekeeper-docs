@@ -1,3 +1,8 @@
-- Getting started
-
-  - [Quick start](getting-started/quick-start.md)
+- [Quick start](quick-start.md#quick-start)
+  - [Adding Gatekeeper](quick-start.md#adding-gatekeeper)
+  - [Roles and Channels](quick-start.md#roles-and-channels)
+  - [Questions](quick-start.md#questions)
+  - [Usage](quick-start.md#usage)
+- Commands
+  - [Setup](/commands/setup/commands.md)
+  - [Questions](/commands/questions/commands.md)

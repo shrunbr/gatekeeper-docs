@@ -14,6 +14,14 @@ Click the button above to add Gatekeeper to your discord server.
 
 After adding Gatekeeper to your server you'll need to setup the bot. This requires running a few commands to get things going.
 
+### Prerequisites
+
+Before getting into the thick of things, you need to ensure you have some things set to go.
+
+1. A role which is given to members to few all content of the guild. This would be the "main role" of your guild, something granted to all members which allows them to access the discord. You'll need to setup a main role and apply the appropriate permissions before using Gatekeeper. This is not something I cover in the Quick Start guide here.
+2. A channel where users can apply, where everyone **except** your main role has access, at least read-only access. This channel will be the first and only thing users see when they first join as they won't have the main role yet.
+3. A channel where approvers, managers and guild owners can approve applications. This should be locked down to those three roles only. The approve/manager permissions can be assigned to existing roles, no need to create specific roles just for this (unless you want to).
+
 ### Roles and Channels
 
 First, we'll setup roles and channels. There are three roles and two channels to setup. The **Member** role, **Approver** role and **Manager** role as well as the **Approval** channel and the **Application** channel.

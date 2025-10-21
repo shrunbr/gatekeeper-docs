@@ -8,7 +8,7 @@
 - Fast and responsive
 - User friendly
 
-[Add Gatekeeper](https://discord.com/oauth2/authorize?client_id=1269133368382193757&permissions=8&integration_type=0&scope=bot)
+[Add Gatekeeper](https://discord.com/oauth2/authorize?client_id=1269133368382193757)
 [Support](https://gatekeeperbot.dev/discord)
 [Documentation](quick-start.md)
 

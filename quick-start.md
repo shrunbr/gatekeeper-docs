@@ -6,7 +6,7 @@ Gatekeeper is a discord bot which handles applications for entry. When using Gat
 
 ## Adding Gatekeeper
 
-<a href="https://discord.com/oauth2/authorize?client_id=1269133368382193757&permissions=8&integration_type=0&scope=bot"><img width=200 src="/img/add-to-discord-button.png"></a>
+<a href="https://discord.com/oauth2/authorize?client_id=1269133368382193757"><img width=200 src="/img/add-to-discord-button.png"></a>
 
 Click the button above to add Gatekeeper to your discord server.
 

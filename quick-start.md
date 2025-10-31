@@ -14,7 +14,7 @@ Click the button above to add Gatekeeper to your discord server.
 
 After adding Gatekeeper to your server you'll need to setup the bot. This requires running a few commands to get things going.
 
-!> **WARNING:** Gatekeepers first interaction needs to be done by the **Guild Owner**! If another person wishes to manage Gatekeeper, the guild owner must set the manager role.
+!> **WARNING:** This guide assumes you are the **Guild Owner**. If you are not the guild owner, you must have them set the **manager** role to a role that you have to continue setup. This is a security precaution to ensure admins cannot enable or modify Gatekeeper without authorization.
 
 ### Prerequisites
 

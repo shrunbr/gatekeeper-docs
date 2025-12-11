@@ -1,5 +1,7 @@
 site_name: Gatekeeper
 site_url: https://gatekeeperbot.dev
+repo_url: https://github.com/shrunbr/gatekeeper-docs
+repo_name: shrunbr/gatekeeper-docs
 theme:
   name: material
   custom_dir: overrides

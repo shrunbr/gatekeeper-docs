@@ -9,8 +9,6 @@ theme:
   - navigation.sections
   - navigation.footer
 plugins:
-  optimize:
-    optimize: true
   search:
     enabled: true
 markdown_extensions:

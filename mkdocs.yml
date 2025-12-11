@@ -1,0 +1,28 @@
+site_name: Gatekeeper
+site_url: https://gatekeeperbot.dev
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: slate
+  features:
+  - navigation.sections
+  - navigation.footer
+plugins:
+  optimize:
+    optimize: true
+  search:
+    enabled: true
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+- attr_list
+- md_in_html
+- def_list
+- pymdownx.tasklist:
+    custom_checkbox: true
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/shrunbr

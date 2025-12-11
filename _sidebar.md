@@ -1,9 +1,0 @@
-- [Quick start](quick-start.md#quick-start)
-  - [Adding Gatekeeper](quick-start.md#adding-gatekeeper)
-  - [Prerequisites](quick-start.md#prerequisites)
-  - [Roles and Channels](quick-start.md#roles-and-channels)
-  - [Questions](quick-start.md#questions)
-  - [Usage](quick-start.md#usage)
-- Commands
-  - [Setup](/commands/setup/commands.md)
-  - [Questions](/commands/questions/commands.md)

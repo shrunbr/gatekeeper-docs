@@ -1,12 +1,8 @@
 # Quick Start
 
-Welcome to Gatekeeper!
-
-Gatekeeper is a discord bot which handles applications for entry. When using Gatekeeper, upon joining users will have to click an **Apply** button and fill out an application. After they submitted the application, you and users you authorize will be allowed to approve or deny the application.
-
 ## Adding Gatekeeper
 
-<a href="https://discord.com/oauth2/authorize?client_id=1269133368382193757"><img width=200 src="/img/add-to-discord-button.png"></a>
+<a href="https://discord.com/oauth2/authorize?client_id=1269133368382193757"><img width=200 src="/assets/add-to-discord-button.png"></a>
 
 Click the button above to add Gatekeeper to your discord server.
 
@@ -14,7 +10,8 @@ Click the button above to add Gatekeeper to your discord server.
 
 After adding Gatekeeper to your server you'll need to setup the bot. This requires running a few commands to get things going.
 
-!> **WARNING:** This guide assumes you are the **Guild Owner**. If you are not the guild owner, you must have them set the **manager** role to a role that you have to continue setup. This is a security precaution to ensure admins cannot enable or modify Gatekeeper without authorization.
+!!! warning "Permissions Required"
+    This guide assumes you are the **Guild Owner**. If you are not the guild owner, you must have them set the **manager** role to a role that you have to continue setup. This is a security precaution to ensure admins cannot enable or modify Gatekeeper without authorization.
 
 ### Prerequisites
 
